@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="00289592-e309-44eb-8894-5ed619cafb62" name="Changes" comment="Update presentation" />
+    <list default="true" id="00289592-e309-44eb-8894-5ed619cafb62" name="Changes" comment="Update Aula 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,21 +13,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "danilomonteirosouza"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;danilomonteirosouza&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/danilomonteirosouza/mars_simulator.git",
-    "accountId": "997407d9-1242-4ea1-b324-a1dded88eeee"
+    "accountId": "b9c24513-d5bb-40ee-9d3e-88157e56e90f"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3D6GWM7eovXmRPWs6m1t3MItCmm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,9 +40,14 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Danilo Souza/OneDrive/Doutorado/Estagio Docencia/Aulas/mars_simulator",
+    "last_opened_file_path": "C:/Users/FamilyLDD/OneDrive/Doutorado/Estagio Docencia/Aulas/mars_simulator",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "show.migrate.to.gradle.popup": "false",
     "vue.rearranger.settings.migration": "true"
   }
@@ -47,8 +55,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
-        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
       </set>
     </attachedChunks>
   </component>
@@ -60,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1777595138316</updated>
       <workItem from="1777595140128" duration="154000" />
+      <workItem from="1778186775274" duration="1700000" />
     </task>
     <task id="LOCAL-00001" summary="Update presentation">
       <option name="closed" value="true" />
@@ -69,7 +78,23 @@
       <option name="project" value="LOCAL" />
       <updated>1777595185999</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Aula 2">
+      <option name="closed" value="true" />
+      <created>1778186798968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778186798968</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update Aula 2">
+      <option name="closed" value="true" />
+      <created>1778187557458</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778187557458</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +102,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update presentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update presentation" />
+    <MESSAGE value="Add Aula 2" />
+    <MESSAGE value="Update Aula 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Aula 2" />
   </component>
 </project>
