@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00289592-e309-44eb-8894-5ed619cafb62" name="Changes" comment="update aula 3" />
+    <list default="true" id="00289592-e309-44eb-8894-5ed619cafb62" name="Changes" comment="Aula 4">
+      <change afterPath="$PROJECT_DIR$/Aula 5/Aula 5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 5/Mars4_5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 5/laboratorios/buble_sort.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 5/laboratorios/conversor_dec_hex.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 5/laboratorios/fibonacci.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 5/rars1_6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 5/resolucao_exercicio_aula_4.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +80,8 @@
       <workItem from="1778186775274" duration="1700000" />
       <workItem from="1778193187199" duration="348000" />
       <workItem from="1778804454137" duration="585000" />
+      <workItem from="1779409204363" duration="293000" />
+      <workItem from="1780009505447" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="Update presentation">
       <option name="closed" value="true" />
@@ -120,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778804478975</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Aula 4">
+      <option name="closed" value="true" />
+      <created>1779409221297</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1779409221297</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +152,7 @@
     <MESSAGE value="Upload atv 2" />
     <MESSAGE value="update aula 2" />
     <MESSAGE value="update aula 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="update aula 3" />
+    <MESSAGE value="Aula 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 4" />
   </component>
 </project>
